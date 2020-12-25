@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PropertyList>
+<sim>
+	<model>
+		<livery>
+			<name type="string">Glory to Hong Kong</name>
+			<texture>Messages/glory2hk.png</texture>
+		</livery>
+	</model>
+</sim>
+</PropertyList>

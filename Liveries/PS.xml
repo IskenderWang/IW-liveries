@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+
+
+<PropertyList>
+  <sim>
+    <model>
+     <livery>
+      <name type="string">Pepsi (2020 version)</name>
+      <index type="int">17</index>
+      <texture>Liveries/PS.png</texture>
+     </livery>
+    </model>
+  </sim>
+</PropertyList>

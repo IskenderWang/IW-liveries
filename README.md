@@ -1,6 +1,6 @@
 # IW-liveries
 
-Here you can find all the liveries (and related things) that I've contributed to FlightGear!
+Here you can find all the liveries that I've contributed to FlightGear!
 Currently, they are as follows:
 
 ## Real liveries

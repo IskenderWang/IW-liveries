@@ -14,4 +14,4 @@ Currently, they are as follows:
 * ERJ190 – A Miami Heat livery for the Embraer 190, part of the wonderful [E-jet family](https://github.com/tdammers/E-jet-family-YV) by Tobias Dammers, now comes included
 * Liveries-8 – An Azerbaijan Airlines (AHY) x Tottenham Hotspur collaboration livery for the [787-8](https://github.com/IskenderWang/787-family), comes included
 
-Also included in this repo's [e-tron](e-tron) directory are custom messages for the excellent & super-fun [Follow-me](https://github.com/WEIHAOLEE/followme_e-tron) car that I hope some of you will appreciate and decide to use :)
+Also included in this repo's [e-tron](e-tron) directory are custom messages for the super-fun [Follow-me](https://github.com/WEIHAOLEE/followme_e-tron) car that I hope some of you will appreciate and decide to use :)
